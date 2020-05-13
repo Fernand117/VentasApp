@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ventas</string>
+    <string name="categorias_nuevo">Categorias - Nuevo</string>
+    <string name="categorias_editar">Categorias editar</string>
+    <string name="capturar_imagen">Capturar imagen</string>
+    <string name="nombre_de_la_categoria">Nombre de la categoria</string>
+    <string name="ejemplo_autos">Ejemplo: Autos</string>
+    <string name="guardar">Guardar</string>
 </resources>
